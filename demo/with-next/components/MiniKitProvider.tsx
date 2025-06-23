@@ -12,3 +12,6 @@ export const MiniKitProvider = ({ children }: { children: ReactNode }) => {
 
   return <>{children}</>;
 };
+pnpm i
+cd demo/with-next
+pnpm dev
